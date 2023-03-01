@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi there 👋
+  Stay a while and listen!
 </h1>
 
 
