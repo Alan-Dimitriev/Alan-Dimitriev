@@ -8,7 +8,7 @@
 
 I'm a Biomedical Computer Scientist with a passion for applying Machine Learning techniques to tackle medical problems. I have experience working with large scale public health data and genetic data. I am passionate about making a real difference in the lives of others, and aspire to use my technical knowledge to make the world a better place.
 
-### Projects
+## Projects
 #### [Reproduction of 'An Explainable CNN Approach for Medical Codes Prediction from Clinical Text'](https://github.com/Alan-Dimitriev/ReproducabilityStudyExplainableCNNs)  •  [Paper](https://github.com/Alan-Dimitriev/ReproducabilityStudyExplainableCNNs/blob/main/Group_21_FINAL_REPORT.pdf)
 
 We attempted to reproduce the methods and results reported in 2021 paper [An Explainable CNN Approach for Medical Codes Prediction from Clinical Text](https://doi.org/10.1186/s12911-021-01615-6) by Hu et al.
