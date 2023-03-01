@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  "The way I see it, our fates appear to be intertwined."
+  “Each morning, we are born again. What we do today is what matters most.”
 </h1>
 
 
