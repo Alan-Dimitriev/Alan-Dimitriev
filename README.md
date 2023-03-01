@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Stay a while and listen!
+  "The way I see it, our fates appear to be intertwined."
 </h1>
 
 
