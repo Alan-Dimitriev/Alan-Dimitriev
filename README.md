@@ -23,6 +23,14 @@ This study proposes the creation of an evolutionary algorithm to find what the b
 #### [Breast Invasive Carcinoma MIRSEQ Analysis](https://github.com/Alan-Dimitriev/BICMA)  •  [Paper](https://github.com/Alan-Dimitriev/BICMA/blob/main/Breast_Invasive_Carcinoma_MIRSEQ_Analysis.pdf)
 In this study we aim to investigate whether miRNAseq reads can be used as discriminating features of a binary pathological N stage classification system (whether or not a given patient’s cancer has spread to any nearby lymph nodes or none).
 
+#### [NBA Wins-Made Predictions From College Stats](https://github.com/Alan-Dimitriev/NBA_WM_Predictions)  •  [Paper](https://github.com/Alan-Dimitriev/NBA_WM_Predictions/blob/main/NBA_Wins_Made_Report.pdf)
+The aim of our project was to use machine learning to create a model that could accurately
+predict the “Wins-Made” an NBA draft prospect would have contributed to an NBA roster based
+off of their college basketball stats (such as points per game, assists and rebounds) and their NBA
+draft combine measurements (such as height, wingspan, and vertical leaping ability). 
+
+
+
 ## Published Articles
 
 #### Canadian Journal of Pain
