@@ -35,3 +35,10 @@ draft combine measurements (such as height, wingspan, and vertical leaping abili
 
 #### Canadian Journal of Pain
 - [The association between COVID-19 and changes in opioid prescribing patterns and opioid-related overdoses: a retrospective cohort study](https://doi.org/10.1080/24740527.2023.2176297)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM1YmVlNjI1MzQ3ZDI0Mjc1OGQ2NDg2MzAwZTRiY2U3Y2I1ODEzOCZjdD1z/fUe2pNFeBYp8ksU5io/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM1YmVlNjI1MzQ3ZDI0Mjc1OGQ2NDg2MzAwZTRiY2U3Y2I1ODEzOCZjdD1z/fUe2pNFeBYp8ksU5io/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM1YmVlNjI1MzQ3ZDI0Mjc1OGQ2NDg2MzAwZTRiY2U3Y2I1ODEzOCZjdD1z/fUe2pNFeBYp8ksU5io/giphy.gif" width="200"/>
+</div>
+
