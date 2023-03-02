@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <img style="transform: scaleX(-1);" src="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif" width="200"/>
-  <img style="transform: scaleX(-1);" src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="200"/>
-  <img style="transform: scaleX(-1);" src="plants_rotated.gif" width="200"/>
+  <img src="plants_rotated.gif" width="200"/>
+  <img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif" width="200"/>
 </div>
 
 <h1 align="center">
