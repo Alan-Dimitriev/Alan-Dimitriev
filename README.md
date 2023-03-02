@@ -13,7 +13,7 @@ I'm a Biomedical Computer Scientist with a passion for applying Machine Learning
 ## Projects
 #### [Reproduction of 'An Explainable CNN Approach for Medical Codes Prediction from Clinical Text'](https://github.com/Alan-Dimitriev/ReproducabilityStudyExplainableCNNs)  •  [Paper](https://github.com/Alan-Dimitriev/ReproducabilityStudyExplainableCNNs/blob/main/Report_Final.pdf)
 
-We attempted to reproduce the methods and results reported in 2021 paper [An Explainable CNN Approach for Medical Codes Prediction from Clinical Text](https://doi.org/10.1186/s12911-021-01615-6) by Hu et al.
+We attempted to reproduce the methods and results reported in the 2021 paper [An Explainable CNN Approach for Medical Codes Prediction from Clinical Text](https://doi.org/10.1186/s12911-021-01615-6) by Hu et al.
 
 #### [Using Evolutionary Computing To Find The Ideal Shaman Healing Spell Rotation In World of Warcraft](https://github.com/Alan-Dimitriev/EvolutionaryComputingWoWShaman)  •  [Paper](https://github.com/Alan-Dimitriev/EvolutionaryComputingWoWShaman/blob/main/CISC_851_FINAL_PROJECT.pdf)
 
