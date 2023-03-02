@@ -20,6 +20,8 @@ We attempted to reproduce the methods and results reported in the 2021 paper [An
 
 This study proposes the creation of an evolutionary algorithm to find what the best single target healing spell rotation for shamans in World of Warcraft is based on percent healing generated over a given span of time.
 
+#### [Breast Invasive Carcinoma MIRSEQ Analysis](https://github.com/Alan-Dimitriev/BICMA)  •  [Paper](https://github.com/Alan-Dimitriev/BICMA/blob/main/Breast_Invasive_Carcinoma_MIRSEQ_Analysis.pdf)
+
 
 ## Published Articles
 
