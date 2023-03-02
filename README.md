@@ -1,10 +1,3 @@
-<img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="200"/>
-  img {
-  -webkit-transform: scaleX(-1);
-  -moz-transform: scaleX(-1);
-  -o-transform: scaleX(-1);
-  transform: scaleX(-1);
-}
 
 <div id="header" align="center">
   <img
