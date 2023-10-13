@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="plants_rotated.gif" width="200"/>
-  <img src="https://media.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l46Ck4CGc762ion28/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/n5KTUA0UTJxMVsMFoK/giphy.gif" width="200"/>
 </div>
 
